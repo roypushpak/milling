@@ -1,0 +1,11 @@
+Model Information:
+* title:	Milling Machine
+* source:	https://sketchfab.com/3d-models/milling-machine-4bf9a4ff15ce4a8e8885827810636671
+* author:	SusiePhilpott (https://sketchfab.com/SusiePhilpott)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Milling Machine" (https://sketchfab.com/3d-models/milling-machine-4bf9a4ff15ce4a8e8885827810636671) by SusiePhilpott (https://sketchfab.com/SusiePhilpott) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
